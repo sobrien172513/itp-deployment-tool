@@ -15,5 +15,5 @@ six               1.11.0
 tinydb            3.8.0
 virtualenv        15.1.0
 virtualenv-clone  0.3.0
-wrapt
-bottle
+wrapt             1.10.11
+bottle            0.12.17
