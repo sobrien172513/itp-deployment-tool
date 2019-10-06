@@ -1,2 +1,2 @@
-tinydb            3.8.0
-bottle            0.12.17
+tinydb
+bottle
