@@ -526,9 +526,5 @@ else:
     port = 3000
 
 # if localhost development
-#run(host='localhost',port=9090)
-run(host='0.0.0.0', port=port)
-
-
-#port = int(os.environ.get("PORT", 17995))
-#app.run(host='0.0.0.0', port=port)
+run(host='localhost',port=9090)
+#run(host='0.0.0.0', port=port)
